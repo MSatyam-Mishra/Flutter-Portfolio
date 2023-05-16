@@ -1,4 +1,10 @@
-# flutterportfolio
+# Web Portfolio made using Flutter
+
+## Screenshots :
+
+![portfolio-2_cropped](https://github.com/MSatyam-Mishra/Flutter-Portfolio/assets/12216430/db379ec2-1b88-426b-9baa-0b4269bea1af)
+
+
 
 A new Flutter project.
 
