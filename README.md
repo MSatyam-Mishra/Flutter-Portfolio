@@ -1,10 +1,10 @@
-# Web Portfolio made using Flutter
+# Web Portfolio made with Flutter
 
 ## Screenshots :
 
 ![portfolio-2_cropped](https://github.com/MSatyam-Mishra/Flutter-Portfolio/assets/12216430/db379ec2-1b88-426b-9baa-0b4269bea1af)
 
-
+[orignal UI Link](https://dribbble.com/shots/20721328-BimGraph-Portfolio-Website)
 
 A new Flutter project.
 
